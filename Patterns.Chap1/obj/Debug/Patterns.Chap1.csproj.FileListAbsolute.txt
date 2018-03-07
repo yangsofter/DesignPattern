@@ -1,0 +1,8 @@
+c:\users\yangjianping\documents\visual studio 2015\Projects\Patterns\Patterns.Chap1\bin\Debug\Patterns.Chap1.exe
+c:\users\yangjianping\documents\visual studio 2015\Projects\Patterns\Patterns.Chap1\bin\Debug\Patterns.Chap1.pdb
+c:\users\yangjianping\documents\visual studio 2015\Projects\Patterns\Patterns.Chap1\obj\Debug\Patterns.Chap1.exe
+c:\users\yangjianping\documents\visual studio 2015\Projects\Patterns\Patterns.Chap1\obj\Debug\Patterns.Chap1.pdb
+D:\Works\设计模式\Patterns\Patterns.Chap1\obj\Debug\Patterns.Chap1.exe
+D:\Works\设计模式\Patterns\Patterns.Chap1\obj\Debug\Patterns.Chap1.pdb
+D:\Works\设计模式\Patterns\Patterns.Chap1\bin\Debug\Patterns.Chap1.exe
+D:\Works\设计模式\Patterns\Patterns.Chap1\bin\Debug\Patterns.Chap1.pdb

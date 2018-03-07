@@ -1,0 +1,4 @@
+D:\Works\设计模式\Patterns\Patterns.Chap2\bin\Debug\Patterns.Chap2.exe
+D:\Works\设计模式\Patterns\Patterns.Chap2\bin\Debug\Patterns.Chap2.pdb
+D:\Works\设计模式\Patterns\Patterns.Chap2\obj\Debug\Patterns.Chap2.exe
+D:\Works\设计模式\Patterns\Patterns.Chap2\obj\Debug\Patterns.Chap2.pdb
